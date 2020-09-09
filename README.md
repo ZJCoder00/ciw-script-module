@@ -28,3 +28,17 @@
 >注：本项目仅作为试验，极有可能失败（
 
 测试链接：https://vicklleall.com/code-editor/
+
+基本语法示例
+```javascript
+num a, b = 0, c = [2, 3, 3]; //定义数字类型变量/数组
+str d, e = "ABC", f = ["AB", "CD"]; //定义字符串类型变量/数组
+// if, for语句示例
+for (num i = 0; i < 10; i++) {
+  if (i < 3) {
+    c[i] = i;
+  } else {
+    break;
+  }
+} 
+```
