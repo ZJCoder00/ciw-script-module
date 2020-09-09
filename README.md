@@ -26,3 +26,5 @@
   - [ ] 函数提示
   
 >注：本项目仅作为试验，极有可能失败（
+
+测试链接：https://vicklleall.com/code-editor/
